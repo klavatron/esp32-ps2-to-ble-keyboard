@@ -1,0 +1,105 @@
+Storm scancodes
+caps lock		58F058
+LShift			12F012
+RShift			59F059
+LCtrl			14F014
+RCtrl			E014E0F014
+LAlt			11F011
+RAlt			E011E0F011
+LWin			E01FE0F01F
+RWin			E027E0F027
+RMenu			E02FE0F02F
+Print			E012E07CE0F07CE0F012
+Scroll lock		7EF07E
+Pause 			E11477E1F014F077
+NumLock			77F077
+Insert			E070E0F070
+Home			E06CE0F06C
+PUp				E07DE0F07D
+Delete			E071E0F071
+End 			E069E0F069
+PDown			E07AE0F07A
+Esc				76F076
+Tab				DF0D
+F1 				5F05  //3B     05   07   3A  F1
+F2 				6F06
+F3              4F04
+F4 				CF0C
+F5 				3F03
+F6 				BF0B
+F7 				83F083
+F8              AF0A
+F9 				1F01
+F10 			9F09
+F11 			78F078
+F12 			7F07
+Fn F1 			E05E0F05
+Fn F2 			E0CE0F0C
+Fn F3 			E03E0F03
+Fn F4 			E078E0F078
+Fn F5 			E06DE0F06D
+Fn F6 			E033E0F033
+Fn F7 			E03DE0F03D
+Fn F8 			E036E0F036
+Fn F9 			E083E0F083
+Fn F10 			E06EE0F06E
+Fn F11 			E0AE0F0A
+Fn F12 			E01E0F01
+
+a 				1CF01C
+A 				121CF012F01C
+Ctrl a 			141CF014F01C
+Alt a 			111CF011F01C
+
+
+back			E038E0F038
+forward			E030E0F030
+
+encoder
+	top			E08B
+	topfast		E092E092
+				E08BE09FE092
+	bottom		E045
+	bottomfast	E01D
+				E024E01BE01BE024
+	button		E04E0F04
+
+
+F 				E076E0F076
+word			E02DE0F02D
+excel			E02CE0F02C
+ppoint			E08E0F08
+calendar		E035E0F035
+
+stop			E028E0F028
+refresh			E020E0F020
+www				E03AE0F03A
+email			E048E0F048
+search			E010E0F010
+favor			E018E0F018
+
+
+
+playpause		E034E0F034
+stop			E03BE0F03B
+prev track 		E015E0F015
+next track		E04DE0F04D
+eject			E01CE0F01C
+
+LogOff			E03CE0F03C
+
+moon			E03FE0F03F
+power			E037E0F037
+
+move			E03EE0F03E
+cross			E0BE0F0B
+
+scissors		E043E0F043
+copy			E044E0F044
+paste			E046E0F046
+mark			E073E0F073
+
+computer		E040E0F040
+calculator		E02BE0F02B
+
+ctrl alt del 	1411E071F011E0F071F014
